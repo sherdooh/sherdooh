@@ -2,7 +2,7 @@
 - 👀 I’m interested in devoloping mobile and desktop apps.
 - 🌱 I’m currently learning software Engineering at ALX
 - 💞️ I’m looking to collaborate on building creative real-world (problem solving) projects
-- 📫 How to reach me at Sherkiplah@gmail.com
+- 📫 Reach me at Sherkiplah@gmail.com
 
 <!---
 sherdooh/sherdooh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
