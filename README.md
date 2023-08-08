@@ -8,3 +8,5 @@
 sherdooh/sherdooh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<a href="https://app.daily.dev/kiplangatshadrack"><img src="https://api.daily.dev/devcards/1239fe3364d345b78a071bceed753994.png?r=94f" width="400" alt="Kiplangat Shadrack's Dev Card"/></a>
